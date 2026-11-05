@@ -1,0 +1,1001 @@
+﻿matricula,curso,turma,turno,modalidade,unidade
+10001,Psicologia,Turma 01,Noite,EAD,Unidade Centro
+10002,Direito,Turma 05,Noite,Presencial,Unidade Sul
+10003,Engenharia Civil,Turma 03,Noite,EAD,Unidade Centro
+10004,Administração,Turma 03,Manhã,Presencial,Unidade Sul
+10005,Nutrição,Turma 01,Noite,Presencial,Unidade Sul
+10006,Engenharia Civil,Turma 14,Manhã,EAD,Unidade Sul
+10007,Ciências Contábeis,Turma 26,Manhã,Presencial,Unidade Sul
+10008,Psicologia,Turma 11,Tarde,Presencial,Unidade Centro
+10009,Sistemas de  Informação,Turma 04,Manhã,EAD,Unidade Centro
+10010,Sistemas de  Informação,Turma 28,Tarde,Semipresencial,Unidade Norte
+10011,Administração,Turma 24,Tarde,Semipresencial,Unidade Centro
+10012,Psicologia,Turma 03,Noite,EAD,Unidade Sul
+10013,Nutrição,Turma 29,Tarde,Semipresencial,Unidade Centro
+10014,Psicologia,Turma 02,Noite,Presencial,Unidade Norte
+10015,Psicologia,Turma 28,Manhã,Presencial,Unidade Norte
+10016,Ciências Contábeis,Turma 15,Noite,EAD,Unidade Centro
+10017,Sistemas de  Informação,Turma 12,Manhã,Semipresencial,Unidade Norte
+10018,Psicologia,Turma 20,Noite,Presencial,Unidade Sul
+10019,Direito,Turma 06,Tarde,EAD,Unidade Norte
+10020,Engenharia Civil,Turma 08,Noite,EAD,Unidade Centro
+10021,Direito,Turma 27,Manhã,EAD,Unidade Norte
+10022,Ciências Contábeis,Turma 03,Manhã,Semipresencial,Unidade Sul
+10023,Sistemas de  Informação,Turma 07,Noite,EAD,Unidade Norte
+10024,Educação Física,Turma 05,Tarde,Presencial,Unidade Centro
+10025,Engenharia Civil,Turma 18,Tarde,Semipresencial,Unidade Sul
+10026,Psicologia,Turma 29,Noite,EAD,Unidade Norte
+10027,Direito,Turma 05,Noite,EAD,Unidade Centro
+10028,Administração,Turma 28,Manhã,Presencial,Unidade Sul
+10029,Enfermagem,Turma 26,Noite,EAD,Unidade Sul
+10030,Psicologia,Turma 13,Tarde,Semipresencial,Unidade Norte
+10031,Engenharia Civil,Turma 09,Noite,Presencial,Unidade Sul
+10032,Psicologia,Turma 22,Noite,EAD,Unidade Sul
+10033,Sistemas de  Informação,Turma 04,Tarde,EAD,Unidade Centro
+10034,Educação Física,Turma 01,Noite,Semipresencial,Unidade Norte
+10035,Engenharia Civil,Turma 25,Manhã,Semipresencial,Unidade Centro
+10036,Ciências Contábeis,Turma 27,Noite,Semipresencial,Unidade Sul
+10037,Direito,Turma 05,Tarde,Presencial,Unidade Sul
+10038,Engenharia Civil,Turma 30,Manhã,Semipresencial,Unidade Norte
+10039,Educação Física,Turma 01,Manhã,EAD,Unidade Norte
+10040,Direito,Turma 02,Manhã,Semipresencial,Unidade Centro
+10041,Psicologia,Turma 24,Tarde,Presencial,Unidade Sul
+10042,Enfermagem,Turma 05,Noite,EAD,Unidade Sul
+10043,Enfermagem,Turma 09,Noite,Semipresencial,Unidade Norte
+10044,Direito,Turma 30,Noite,Semipresencial,Unidade Sul
+10045,Direito,Turma 23,Tarde,EAD,Unidade Sul
+10046,Sistemas de  Informação,Turma 15,Noite,EAD,Unidade Centro
+10047,Direito,Turma 08,Manhã,EAD,Unidade Centro
+10048,Nutrição,Turma 18,Manhã,Semipresencial,Unidade Centro
+10049,Administração,Turma 03,Noite,Semipresencial,Unidade Centro
+10050,Direito,Turma 03,Manhã,EAD,Unidade Centro
+10051,Engenharia Civil,Turma 08,Tarde,Semipresencial,Unidade Norte
+10052,Direito,Turma 18,Manhã,Semipresencial,Unidade Sul
+10053,Nutrição,Turma 16,Manhã,EAD,Unidade Norte
+10054,Direito,Turma 04,Manhã,Semipresencial,Unidade Norte
+10055,Sistemas de  Informação,Turma 14,Tarde,EAD,Unidade Sul
+10056,Administração,Turma 22,Noite,Semipresencial,Unidade Centro
+10057,Administração,Turma 13,Noite,EAD,Unidade Centro
+10058,Direito,Turma 07,Manhã,Semipresencial,Unidade Norte
+10059,Enfermagem,Turma 14,Manhã,EAD,Unidade Norte
+10060,Direito,Turma 28,Manhã,EAD,Unidade Sul
+10061,Psicologia,Turma 02,Noite,Semipresencial,Unidade Centro
+10062,Psicologia,Turma 30,Manhã,Presencial,Unidade Norte
+10063,Educação Física,Turma 16,Manhã,EAD,Unidade Centro
+10064,Enfermagem,Turma 13,Manhã,EAD,Unidade Norte
+10065,Educação Física,Turma 10,Tarde,Semipresencial,Unidade Sul
+10066,Engenharia Civil,Turma 22,Noite,EAD,Unidade Centro
+10067,Direito,Turma 10,Manhã,Presencial,Unidade Sul
+10068,Engenharia Civil,Turma 02,Noite,EAD,Unidade Centro
+10069,Administração,Turma 19,Tarde,Semipresencial,Unidade Sul
+10070,Enfermagem,Turma 02,Noite,Presencial,Unidade Centro
+10071,Psicologia,Turma 20,Manhã,Semipresencial,Unidade Centro
+10072,Psicologia,Turma 04,Noite,Presencial,Unidade Sul
+10073,Nutrição,Turma 02,Noite,Presencial,Unidade Norte
+10074,Nutrição,Turma 19,Noite,EAD,Unidade Norte
+10075,Direito,Turma 22,Noite,EAD,Unidade Centro
+10076,Ciências Contábeis,Turma 13,Manhã,Semipresencial,Unidade Sul
+10077,Ciências Contábeis,Turma 15,Tarde,Presencial,Unidade Centro
+10078,Educação Física,Turma 20,Noite,Presencial,Unidade Centro
+10079,Engenharia Civil,Turma 07,Noite,EAD,Unidade Centro
+10080,Sistemas de  Informação,Turma 29,Manhã,Presencial,Unidade Norte
+10081,Ciências Contábeis,Turma 06,Tarde,Semipresencial,Unidade Sul
+10082,Ciências Contábeis,Turma 20,Noite,Semipresencial,Unidade Centro
+10083,Engenharia Civil,Turma 10,Noite,Presencial,Unidade Centro
+10084,Ciências Contábeis,Turma 04,Manhã,Semipresencial,Unidade Sul
+10085,Enfermagem,Turma 09,Tarde,Semipresencial,Unidade Centro
+10086,Sistemas de  Informação,Turma 07,Noite,Semipresencial,Unidade Norte
+10087,Engenharia Civil,Turma 16,Tarde,Presencial,Unidade Centro
+10088,Psicologia,Turma 27,Tarde,Presencial,Unidade Centro
+10089,Sistemas de  Informação,Turma 25,Manhã,Semipresencial,Unidade Norte
+10090,Enfermagem,Turma 24,Tarde,Semipresencial,Unidade Sul
+10091,Psicologia,Turma 18,Manhã,Presencial,Unidade Centro
+10092,Enfermagem,Turma 18,Manhã,EAD,Unidade Sul
+10093,Engenharia Civil,Turma 05,Tarde,Presencial,Unidade Centro
+10094,Ciências Contábeis,Turma 12,Manhã,EAD,Unidade Centro
+10095,Direito,Turma 22,Manhã,EAD,Unidade Sul
+10096,Psicologia,Turma 20,Noite,Presencial,Unidade Centro
+10097,Enfermagem,Turma 26,Manhã,EAD,Unidade Centro
+10098,Enfermagem,Turma 24,Tarde,EAD,Unidade Sul
+10099,Direito,Turma 09,Manhã,Semipresencial,Unidade Centro
+10100,Psicologia,Turma 28,Manhã,EAD,Unidade Centro
+10101,Direito,Turma 27,Tarde,EAD,Unidade Norte
+10102,Direito,Turma 08,Manhã,Semipresencial,Unidade Centro
+10103,Psicologia,Turma 11,Tarde,Presencial,Unidade Norte
+10104,Sistemas de  Informação,Turma 21,Noite,EAD,Unidade Sul
+10105,Engenharia Civil,Turma 11,Manhã,Presencial,Unidade Norte
+10106,Enfermagem,Turma 19,Tarde,Presencial,Unidade Centro
+10107,Nutrição,Turma 14,Tarde,Semipresencial,Unidade Norte
+10108,Psicologia,Turma 20,Noite,Presencial,Unidade Norte
+10109,Nutrição,Turma 07,Tarde,Presencial,Unidade Sul
+10110,Psicologia,Turma 01,Noite,Semipresencial,Unidade Sul
+10111,Direito,Turma 12,Tarde,Presencial,Unidade Sul
+10112,Sistemas de  Informação,Turma 20,Tarde,Semipresencial,Unidade Centro
+10113,Ciências Contábeis,Turma 17,Tarde,Semipresencial,Unidade Norte
+10114,Sistemas de  Informação,Turma 13,Noite,EAD,Unidade Sul
+10115,Enfermagem,Turma 07,Tarde,Semipresencial,Unidade Norte
+10116,Enfermagem,Turma 20,Noite,EAD,Unidade Norte
+10117,Engenharia Civil,Turma 27,Manhã,EAD,Unidade Norte
+10118,Direito,Turma 14,Noite,Semipresencial,Unidade Sul
+10119,Sistemas de  Informação,Turma 15,Tarde,EAD,Unidade Sul
+10120,Direito,Turma 17,Tarde,Semipresencial,Unidade Centro
+10121,Psicologia,Turma 10,Noite,Semipresencial,Unidade Sul
+10122,Nutrição,Turma 11,Manhã,Presencial,Unidade Sul
+10123,Ciências Contábeis,Turma 08,Manhã,Presencial,Unidade Centro
+10124,Administração,Turma 08,Tarde,Semipresencial,Unidade Centro
+10125,Educação Física,Turma 14,Noite,Semipresencial,Unidade Centro
+10126,Psicologia,Turma 16,Tarde,Presencial,Unidade Centro
+10127,Administração,Turma 29,Manhã,EAD,Unidade Centro
+10128,Enfermagem,Turma 26,Noite,Semipresencial,Unidade Norte
+10129,Administração,Turma 18,Manhã,Presencial,Unidade Norte
+10130,Enfermagem,Turma 26,Tarde,Semipresencial,Unidade Sul
+10131,Engenharia Civil,Turma 20,Tarde,EAD,Unidade Sul
+10132,Engenharia Civil,Turma 14,Noite,EAD,Unidade Centro
+10133,Educação Física,Turma 15,Tarde,Presencial,Unidade Sul
+10134,Ciências Contábeis,Turma 25,Noite,EAD,Unidade Sul
+10135,Direito,Turma 09,Tarde,Presencial,Unidade Sul
+10136,Ciências Contábeis,Turma 08,Tarde,EAD,Unidade Norte
+10137,Engenharia Civil,Turma 03,Manhã,Presencial,Unidade Centro
+10138,Psicologia,Turma 23,Manhã,Semipresencial,Unidade Centro
+10139,Psicologia,Turma 14,Tarde,EAD,Unidade Sul
+10140,Educação Física,Turma 14,Manhã,Presencial,Unidade Norte
+10141,Psicologia,Turma 29,Noite,Semipresencial,Unidade Centro
+10142,Nutrição,Turma 13,Tarde,Presencial,Unidade Norte
+10143,Ciências Contábeis,Turma 25,Tarde,EAD,Unidade Sul
+10144,Engenharia Civil,Turma 26,Noite,Presencial,Unidade Norte
+10145,Direito,Turma 09,Tarde,EAD,Unidade Centro
+10146,Psicologia,Turma 11,Noite,Semipresencial,Unidade Norte
+10147,Enfermagem,Turma 27,Tarde,Presencial,Unidade Sul
+10148,Engenharia Civil,Turma 01,Tarde,Semipresencial,Unidade Sul
+10149,Administração,Turma 03,Noite,EAD,Unidade Centro
+10150,Educação Física,Turma 06,Manhã,EAD,Unidade Norte
+10151,Sistemas de  Informação,Turma 07,Tarde,EAD,Unidade Norte
+10152,Psicologia,Turma 09,Tarde,EAD,Unidade Centro
+10153,Educação Física,Turma 01,Noite,Semipresencial,Unidade Centro
+10154,Sistemas de  Informação,Turma 08,Noite,Presencial,Unidade Sul
+10155,Administração,Turma 25,Manhã,Presencial,Unidade Centro
+10156,Administração,Turma 20,Manhã,Presencial,Unidade Centro
+10157,Educação Física,Turma 22,Manhã,Semipresencial,Unidade Centro
+10158,Educação Física,Turma 23,Tarde,EAD,Unidade Centro
+10159,Nutrição,Turma 20,Noite,Semipresencial,Unidade Centro
+10160,Enfermagem,Turma 10,Manhã,Semipresencial,Unidade Centro
+10161,Ciências Contábeis,Turma 19,Noite,EAD,Unidade Norte
+10162,Direito,Turma 03,Noite,Semipresencial,Unidade Sul
+10163,Direito,Turma 04,Noite,EAD,Unidade Sul
+10164,Nutrição,Turma 26,Manhã,Semipresencial,Unidade Centro
+10165,Sistemas de  Informação,Turma 18,Tarde,Semipresencial,Unidade Norte
+10166,Psicologia,Turma 17,Noite,EAD,Unidade Centro
+10167,Psicologia,Turma 27,Tarde,Presencial,Unidade Norte
+10168,Sistemas de  Informação,Turma 21,Tarde,Semipresencial,Unidade Centro
+10169,Psicologia,Turma 06,Noite,Semipresencial,Unidade Sul
+10170,Ciências Contábeis,Turma 20,Noite,EAD,Unidade Norte
+10171,Psicologia,Turma 27,Noite,Semipresencial,Unidade Norte
+10172,Sistemas de  Informação,Turma 28,Manhã,Presencial,Unidade Norte
+10173,Educação Física,Turma 08,Tarde,Semipresencial,Unidade Sul
+10174,Psicologia,Turma 11,Manhã,EAD,Unidade Norte
+10175,Enfermagem,Turma 16,Manhã,EAD,Unidade Norte
+10176,Sistemas de  Informação,Turma 09,Noite,Semipresencial,Unidade Norte
+10177,Engenharia Civil,Turma 01,Noite,Presencial,Unidade Centro
+10178,Direito,Turma 24,Tarde,EAD,Unidade Sul
+10179,Direito,Turma 23,Tarde,Semipresencial,Unidade Sul
+10180,Educação Física,Turma 15,Manhã,Presencial,Unidade Norte
+10181,Direito,Turma 13,Noite,Presencial,Unidade Norte
+10182,Nutrição,Turma 12,Tarde,Semipresencial,Unidade Sul
+10183,Sistemas de  Informação,Turma 14,Noite,Semipresencial,Unidade Norte
+10184,Sistemas de  Informação,Turma 23,Tarde,EAD,Unidade Norte
+10185,Ciências Contábeis,Turma 08,Manhã,Semipresencial,Unidade Centro
+10186,Sistemas de  Informação,Turma 04,Noite,Semipresencial,Unidade Sul
+10187,Enfermagem,Turma 07,Manhã,Semipresencial,Unidade Norte
+10188,Ciências Contábeis,Turma 24,Noite,Semipresencial,Unidade Sul
+10189,Ciências Contábeis,Turma 04,Manhã,EAD,Unidade Centro
+10190,Sistemas de  Informação,Turma 06,Tarde,Presencial,Unidade Sul
+10191,Engenharia Civil,Turma 05,Tarde,Presencial,Unidade Centro
+10192,Engenharia Civil,Turma 10,Noite,Presencial,Unidade Sul
+10193,Educação Física,Turma 04,Manhã,Semipresencial,Unidade Norte
+10194,Educação Física,Turma 16,Tarde,EAD,Unidade Centro
+10195,Administração,Turma 09,Tarde,Presencial,Unidade Centro
+10196,Psicologia,Turma 16,Manhã,Semipresencial,Unidade Sul
+10197,Administração,Turma 05,Manhã,Semipresencial,Unidade Norte
+10198,Psicologia,Turma 08,Manhã,Semipresencial,Unidade Norte
+10199,Nutrição,Turma 20,Noite,Presencial,Unidade Sul
+10200,Psicologia,Turma 15,Tarde,EAD,Unidade Sul
+10201,Psicologia,Turma 10,Noite,Semipresencial,Unidade Centro
+10202,Nutrição,Turma 24,Manhã,Presencial,Unidade Sul
+10203,Direito,Turma 09,Noite,Presencial,Unidade Centro
+10204,Direito,Turma 06,Noite,Presencial,Unidade Centro
+10205,Administração,Turma 14,Tarde,Semipresencial,Unidade Sul
+10206,Educação Física,Turma 10,Manhã,Presencial,Unidade Norte
+10207,Ciências Contábeis,Turma 23,Tarde,Presencial,Unidade Sul
+10208,Direito,Turma 30,Tarde,Semipresencial,Unidade Sul
+10209,Direito,Turma 14,Manhã,Semipresencial,Unidade Centro
+10210,Enfermagem,Turma 30,Tarde,Presencial,Unidade Centro
+10211,Administração,Turma 06,Tarde,Semipresencial,Unidade Sul
+10212,Nutrição,Turma 30,Tarde,EAD,Unidade Centro
+10213,Educação Física,Turma 23,Tarde,Semipresencial,Unidade Norte
+10214,Ciências Contábeis,Turma 17,Noite,EAD,Unidade Norte
+10215,Psicologia,Turma 20,Manhã,EAD,Unidade Sul
+10216,Sistemas de  Informação,Turma 20,Tarde,Presencial,Unidade Centro
+10217,Direito,Turma 22,Noite,Semipresencial,Unidade Centro
+10218,Ciências Contábeis,Turma 19,Manhã,Presencial,Unidade Norte
+10219,Engenharia Civil,Turma 21,Tarde,EAD,Unidade Centro
+10220,Nutrição,Turma 14,Noite,EAD,Unidade Centro
+10221,Educação Física,Turma 12,Tarde,EAD,Unidade Norte
+10222,Psicologia,Turma 28,Manhã,EAD,Unidade Norte
+10223,Educação Física,Turma 10,Noite,EAD,Unidade Sul
+10224,Administração,Turma 15,Manhã,EAD,Unidade Norte
+10225,Sistemas de  Informação,Turma 04,Tarde,Semipresencial,Unidade Centro
+10226,Engenharia Civil,Turma 15,Tarde,Presencial,Unidade Centro
+10227,Engenharia Civil,Turma 12,Noite,EAD,Unidade Sul
+10228,Educação Física,Turma 25,Manhã,Presencial,Unidade Norte
+10229,Engenharia Civil,Turma 05,Tarde,EAD,Unidade Sul
+10230,Educação Física,Turma 04,Manhã,Semipresencial,Unidade Sul
+10231,Direito,Turma 23,Manhã,EAD,Unidade Sul
+10232,Administração,Turma 18,Tarde,Presencial,Unidade Centro
+10233,Psicologia,Turma 15,Manhã,Semipresencial,Unidade Centro
+10234,Educação Física,Turma 30,Noite,EAD,Unidade Sul
+10235,Ciências Contábeis,Turma 14,Tarde,EAD,Unidade Centro
+10236,Educação Física,Turma 18,Manhã,EAD,Unidade Centro
+10237,Nutrição,Turma 17,Noite,Presencial,Unidade Centro
+10238,Ciências Contábeis,Turma 25,Tarde,EAD,Unidade Sul
+10239,Ciências Contábeis,Turma 27,Manhã,EAD,Unidade Sul
+10240,Ciências Contábeis,Turma 27,Noite,Semipresencial,Unidade Sul
+10241,Educação Física,Turma 28,Manhã,EAD,Unidade Sul
+10242,Educação Física,Turma 12,Tarde,Semipresencial,Unidade Sul
+10243,Psicologia,Turma 15,Tarde,Presencial,Unidade Sul
+10244,Direito,Turma 19,Tarde,Presencial,Unidade Norte
+10245,Administração,Turma 11,Noite,EAD,Unidade Sul
+10246,Psicologia,Turma 13,Noite,Semipresencial,Unidade Centro
+10247,Educação Física,Turma 02,Manhã,Semipresencial,Unidade Sul
+10248,Sistemas de  Informação,Turma 28,Manhã,EAD,Unidade Centro
+10249,Engenharia Civil,Turma 30,Tarde,Presencial,Unidade Sul
+10250,Enfermagem,Turma 14,Noite,Presencial,Unidade Centro
+10251,Educação Física,Turma 26,Tarde,EAD,Unidade Sul
+10252,Psicologia,Turma 21,Manhã,EAD,Unidade Sul
+10253,Engenharia Civil,Turma 13,Tarde,Semipresencial,Unidade Sul
+10254,Educação Física,Turma 28,Noite,Presencial,Unidade Sul
+10255,Psicologia,Turma 08,Noite,Semipresencial,Unidade Norte
+10256,Direito,Turma 24,Manhã,EAD,Unidade Centro
+10257,Psicologia,Turma 15,Manhã,Semipresencial,Unidade Norte
+10258,Administração,Turma 02,Tarde,Presencial,Unidade Norte
+10259,Sistemas de  Informação,Turma 12,Tarde,Presencial,Unidade Centro
+10260,Engenharia Civil,Turma 14,Noite,Semipresencial,Unidade Centro
+10261,Enfermagem,Turma 06,Manhã,Semipresencial,Unidade Norte
+10262,Nutrição,Turma 22,Manhã,EAD,Unidade Sul
+10263,Enfermagem,Turma 08,Tarde,Semipresencial,Unidade Norte
+10264,Educação Física,Turma 09,Noite,Presencial,Unidade Norte
+10265,Ciências Contábeis,Turma 22,Noite,Presencial,Unidade Centro
+10266,Educação Física,Turma 12,Noite,EAD,Unidade Sul
+10267,Psicologia,Turma 23,Tarde,EAD,Unidade Norte
+10268,Direito,Turma 13,Tarde,Presencial,Unidade Centro
+10269,Psicologia,Turma 19,Tarde,Semipresencial,Unidade Norte
+10270,Ciências Contábeis,Turma 01,Noite,EAD,Unidade Norte
+10271,Administração,Turma 19,Noite,Semipresencial,Unidade Centro
+10272,Nutrição,Turma 24,Tarde,EAD,Unidade Centro
+10273,Nutrição,Turma 26,Tarde,Presencial,Unidade Sul
+10274,Direito,Turma 20,Tarde,Semipresencial,Unidade Sul
+10275,Enfermagem,Turma 21,Manhã,Semipresencial,Unidade Sul
+10276,Administração,Turma 10,Tarde,Presencial,Unidade Sul
+10277,Sistemas de  Informação,Turma 24,Manhã,Presencial,Unidade Norte
+10278,Sistemas de  Informação,Turma 24,Tarde,Presencial,Unidade Centro
+10279,Enfermagem,Turma 26,Noite,EAD,Unidade Sul
+10280,Engenharia Civil,Turma 30,Tarde,Presencial,Unidade Norte
+10281,Educação Física,Turma 26,Tarde,Semipresencial,Unidade Norte
+10282,Psicologia,Turma 15,Manhã,Presencial,Unidade Centro
+10283,Psicologia,Turma 28,Noite,EAD,Unidade Centro
+10284,Psicologia,Turma 01,Tarde,Semipresencial,Unidade Centro
+10285,Educação Física,Turma 12,Noite,Semipresencial,Unidade Sul
+10286,Ciências Contábeis,Turma 19,Tarde,Semipresencial,Unidade Norte
+10287,Psicologia,Turma 22,Manhã,EAD,Unidade Centro
+10288,Nutrição,Turma 29,Noite,EAD,Unidade Sul
+10289,Direito,Turma 21,Manhã,Semipresencial,Unidade Norte
+10290,Ciências Contábeis,Turma 21,Tarde,Presencial,Unidade Centro
+10291,Administração,Turma 02,Tarde,EAD,Unidade Centro
+10292,Psicologia,Turma 08,Noite,Presencial,Unidade Norte
+10293,Educação Física,Turma 12,Noite,Semipresencial,Unidade Sul
+10294,Engenharia Civil,Turma 14,Noite,Semipresencial,Unidade Sul
+10295,Enfermagem,Turma 29,Tarde,Semipresencial,Unidade Centro
+10296,Educação Física,Turma 20,Tarde,EAD,Unidade Centro
+10297,Sistemas de  Informação,Turma 07,Tarde,EAD,Unidade Centro
+10298,Sistemas de  Informação,Turma 04,Noite,EAD,Unidade Sul
+10299,Sistemas de  Informação,Turma 02,Tarde,EAD,Unidade Centro
+10300,Psicologia,Turma 28,Tarde,Presencial,Unidade Sul
+10301,Direito,Turma 21,Noite,Semipresencial,Unidade Centro
+10302,Administração,Turma 26,Tarde,Presencial,Unidade Centro
+10303,Nutrição,Turma 07,Manhã,Semipresencial,Unidade Centro
+10304,Nutrição,Turma 07,Manhã,EAD,Unidade Centro
+10305,Nutrição,Turma 01,Tarde,Presencial,Unidade Centro
+10306,Engenharia Civil,Turma 09,Manhã,Presencial,Unidade Sul
+10307,Administração,Turma 05,Manhã,EAD,Unidade Centro
+10308,Nutrição,Turma 11,Manhã,Presencial,Unidade Norte
+10309,Administração,Turma 05,Noite,EAD,Unidade Sul
+10310,Psicologia,Turma 24,Manhã,EAD,Unidade Norte
+10311,Sistemas de  Informação,Turma 17,Noite,Presencial,Unidade Norte
+10312,Engenharia Civil,Turma 08,Noite,Presencial,Unidade Sul
+10313,Engenharia Civil,Turma 10,Tarde,Semipresencial,Unidade Centro
+10314,Administração,Turma 16,Tarde,EAD,Unidade Sul
+10315,Psicologia,Turma 16,Noite,EAD,Unidade Centro
+10316,Psicologia,Turma 11,Noite,Presencial,Unidade Centro
+10317,Enfermagem,Turma 09,Noite,Semipresencial,Unidade Sul
+10318,Engenharia Civil,Turma 23,Tarde,EAD,Unidade Sul
+10319,Engenharia Civil,Turma 10,Tarde,Semipresencial,Unidade Sul
+10320,Psicologia,Turma 04,Noite,Presencial,Unidade Sul
+10321,Engenharia Civil,Turma 24,Manhã,EAD,Unidade Norte
+10322,Direito,Turma 14,Tarde,EAD,Unidade Norte
+10323,Psicologia,Turma 24,Manhã,EAD,Unidade Norte
+10324,Sistemas de  Informação,Turma 22,Tarde,EAD,Unidade Centro
+10325,Educação Física,Turma 03,Manhã,Presencial,Unidade Centro
+10326,Psicologia,Turma 04,Noite,Semipresencial,Unidade Norte
+10327,Enfermagem,Turma 18,Manhã,Semipresencial,Unidade Sul
+10328,Engenharia Civil,Turma 11,Noite,Presencial,Unidade Norte
+10329,Sistemas de  Informação,Turma 28,Noite,EAD,Unidade Sul
+10330,Administração,Turma 10,Noite,EAD,Unidade Norte
+10331,Psicologia,Turma 19,Noite,Presencial,Unidade Centro
+10332,Educação Física,Turma 08,Manhã,EAD,Unidade Sul
+10333,Sistemas de  Informação,Turma 04,Tarde,Semipresencial,Unidade Centro
+10334,Psicologia,Turma 28,Noite,Semipresencial,Unidade Sul
+10335,Engenharia Civil,Turma 01,Noite,Semipresencial,Unidade Sul
+10336,Ciências Contábeis,Turma 01,Manhã,EAD,Unidade Sul
+10337,Ciências Contábeis,Turma 30,Tarde,EAD,Unidade Centro
+10338,Enfermagem,Turma 28,Manhã,Semipresencial,Unidade Sul
+10339,Psicologia,Turma 03,Manhã,Semipresencial,Unidade Sul
+10340,Administração,Turma 03,Noite,Semipresencial,Unidade Centro
+10341,Psicologia,Turma 14,Tarde,EAD,Unidade Centro
+10342,Sistemas de  Informação,Turma 10,Noite,EAD,Unidade Sul
+10343,Nutrição,Turma 03,Manhã,Presencial,Unidade Centro
+10344,Nutrição,Turma 02,Noite,Presencial,Unidade Norte
+10345,Educação Física,Turma 22,Tarde,EAD,Unidade Sul
+10346,Educação Física,Turma 14,Tarde,Presencial,Unidade Sul
+10347,Psicologia,Turma 12,Tarde,Presencial,Unidade Norte
+10348,Nutrição,Turma 16,Noite,Semipresencial,Unidade Norte
+10349,Administração,Turma 08,Tarde,Semipresencial,Unidade Centro
+10350,Administração,Turma 07,Tarde,Presencial,Unidade Centro
+10351,Ciências Contábeis,Turma 10,Tarde,Presencial,Unidade Centro
+10352,Educação Física,Turma 24,Tarde,Presencial,Unidade Centro
+10353,Psicologia,Turma 18,Noite,Presencial,Unidade Sul
+10354,Engenharia Civil,Turma 27,Noite,EAD,Unidade Centro
+10355,Psicologia,Turma 28,Noite,Presencial,Unidade Norte
+10356,Administração,Turma 15,Manhã,EAD,Unidade Sul
+10357,Psicologia,Turma 19,Tarde,Semipresencial,Unidade Sul
+10358,Psicologia,Turma 10,Manhã,EAD,Unidade Centro
+10359,Sistemas de  Informação,Turma 06,Noite,EAD,Unidade Sul
+10360,Sistemas de  Informação,Turma 03,Tarde,Presencial,Unidade Centro
+10361,Psicologia,Turma 19,Tarde,Semipresencial,Unidade Centro
+10362,Psicologia,Turma 28,Tarde,Semipresencial,Unidade Norte
+10363,Direito,Turma 11,Manhã,Presencial,Unidade Sul
+10364,Psicologia,Turma 17,Noite,Presencial,Unidade Norte
+10365,Sistemas de  Informação,Turma 24,Noite,Presencial,Unidade Centro
+10366,Psicologia,Turma 05,Tarde,Presencial,Unidade Centro
+10367,Nutrição,Turma 05,Noite,Presencial,Unidade Centro
+10368,Educação Física,Turma 15,Noite,Semipresencial,Unidade Norte
+10369,Nutrição,Turma 21,Noite,Semipresencial,Unidade Norte
+10370,Sistemas de  Informação,Turma 05,Tarde,Presencial,Unidade Norte
+10371,Educação Física,Turma 21,Tarde,EAD,Unidade Sul
+10372,Administração,Turma 12,Noite,Presencial,Unidade Norte
+10373,Educação Física,Turma 15,Manhã,Presencial,Unidade Norte
+10374,Ciências Contábeis,Turma 03,Noite,Presencial,Unidade Sul
+10375,Nutrição,Turma 17,Tarde,EAD,Unidade Sul
+10376,Engenharia Civil,Turma 26,Noite,Presencial,Unidade Norte
+10377,Nutrição,Turma 21,Manhã,EAD,Unidade Sul
+10378,Educação Física,Turma 17,Manhã,Presencial,Unidade Norte
+10379,Psicologia,Turma 26,Tarde,Semipresencial,Unidade Centro
+10380,Engenharia Civil,Turma 21,Manhã,Presencial,Unidade Centro
+10381,Educação Física,Turma 15,Noite,Semipresencial,Unidade Sul
+10382,Enfermagem,Turma 12,Tarde,EAD,Unidade Norte
+10383,Psicologia,Turma 25,Tarde,Semipresencial,Unidade Sul
+10384,Administração,Turma 26,Noite,Semipresencial,Unidade Norte
+10385,Psicologia,Turma 11,Manhã,Semipresencial,Unidade Sul
+10386,Psicologia,Turma 10,Tarde,Semipresencial,Unidade Sul
+10387,Nutrição,Turma 28,Manhã,EAD,Unidade Centro
+10388,Nutrição,Turma 22,Manhã,EAD,Unidade Norte
+10389,Psicologia,Turma 05,Noite,Semipresencial,Unidade Centro
+10390,Ciências Contábeis,Turma 18,Tarde,Semipresencial,Unidade Norte
+10391,Enfermagem,Turma 22,Noite,Semipresencial,Unidade Sul
+10392,Engenharia Civil,Turma 03,Noite,Semipresencial,Unidade Norte
+10393,Engenharia Civil,Turma 12,Manhã,EAD,Unidade Norte
+10394,Enfermagem,Turma 07,Tarde,EAD,Unidade Centro
+10395,Direito,Turma 05,Manhã,Presencial,Unidade Norte
+10396,Psicologia,Turma 17,Noite,Semipresencial,Unidade Sul
+10397,Administração,Turma 22,Tarde,Semipresencial,Unidade Centro
+10398,Nutrição,Turma 13,Manhã,Presencial,Unidade Centro
+10399,Nutrição,Turma 26,Manhã,Semipresencial,Unidade Norte
+10400,Administração,Turma 14,Tarde,Semipresencial,Unidade Sul
+10401,Direito,Turma 15,Noite,EAD,Unidade Sul
+10402,Educação Física,Turma 08,Noite,Presencial,Unidade Norte
+10403,Educação Física,Turma 29,Manhã,EAD,Unidade Sul
+10404,Nutrição,Turma 15,Tarde,EAD,Unidade Norte
+10405,Engenharia Civil,Turma 17,Tarde,Presencial,Unidade Centro
+10406,Nutrição,Turma 05,Tarde,Presencial,Unidade Sul
+10407,Educação Física,Turma 28,Tarde,Semipresencial,Unidade Centro
+10408,Engenharia Civil,Turma 28,Manhã,EAD,Unidade Centro
+10409,Enfermagem,Turma 09,Tarde,Semipresencial,Unidade Centro
+10410,Psicologia,Turma 03,Manhã,EAD,Unidade Norte
+10411,Administração,Turma 14,Manhã,EAD,Unidade Sul
+10412,Sistemas de  Informação,Turma 08,Tarde,Presencial,Unidade Norte
+10413,Direito,Turma 01,Tarde,Presencial,Unidade Sul
+10414,Sistemas de  Informação,Turma 26,Manhã,Presencial,Unidade Centro
+10415,Ciências Contábeis,Turma 30,Tarde,Semipresencial,Unidade Centro
+10416,Educação Física,Turma 15,Noite,Presencial,Unidade Centro
+10417,Administração,Turma 09,Manhã,Presencial,Unidade Sul
+10418,Nutrição,Turma 17,Tarde,Presencial,Unidade Norte
+10419,Direito,Turma 10,Manhã,Presencial,Unidade Centro
+10420,Psicologia,Turma 21,Noite,EAD,Unidade Centro
+10421,Psicologia,Turma 27,Tarde,Semipresencial,Unidade Sul
+10422,Administração,Turma 21,Noite,Semipresencial,Unidade Centro
+10423,Enfermagem,Turma 10,Tarde,Presencial,Unidade Sul
+10424,Sistemas de  Informação,Turma 08,Noite,EAD,Unidade Centro
+10425,Psicologia,Turma 17,Tarde,Presencial,Unidade Sul
+10426,Engenharia Civil,Turma 17,Noite,Semipresencial,Unidade Centro
+10427,Psicologia,Turma 28,Tarde,Presencial,Unidade Sul
+10428,Psicologia,Turma 12,Tarde,Semipresencial,Unidade Centro
+10429,Sistemas de  Informação,Turma 26,Manhã,EAD,Unidade Centro
+10430,Psicologia,Turma 25,Noite,Semipresencial,Unidade Norte
+10431,Enfermagem,Turma 02,Tarde,Semipresencial,Unidade Norte
+10432,Enfermagem,Turma 27,Noite,EAD,Unidade Sul
+10433,Educação Física,Turma 21,Manhã,Presencial,Unidade Centro
+10434,Educação Física,Turma 02,Tarde,Presencial,Unidade Centro
+10435,Direito,Turma 29,Manhã,EAD,Unidade Norte
+10436,Engenharia Civil,Turma 13,Noite,EAD,Unidade Norte
+10437,Administração,Turma 25,Noite,Presencial,Unidade Norte
+10438,Sistemas de  Informação,Turma 28,Manhã,Semipresencial,Unidade Norte
+10439,Ciências Contábeis,Turma 04,Tarde,EAD,Unidade Norte
+10440,Educação Física,Turma 29,Tarde,EAD,Unidade Centro
+10441,Educação Física,Turma 23,Tarde,EAD,Unidade Sul
+10442,Ciências Contábeis,Turma 26,Manhã,Semipresencial,Unidade Norte
+10443,Psicologia,Turma 14,Noite,Presencial,Unidade Sul
+10444,Ciências Contábeis,Turma 11,Manhã,Presencial,Unidade Norte
+10445,Ciências Contábeis,Turma 10,Tarde,Semipresencial,Unidade Sul
+10446,Psicologia,Turma 06,Noite,EAD,Unidade Norte
+10447,Educação Física,Turma 02,Noite,EAD,Unidade Sul
+10448,Psicologia,Turma 09,Noite,Presencial,Unidade Centro
+10449,Psicologia,Turma 12,Noite,Semipresencial,Unidade Sul
+10450,Enfermagem,Turma 01,Manhã,Semipresencial,Unidade Sul
+10451,Educação Física,Turma 02,Manhã,Presencial,Unidade Centro
+10452,Sistemas de  Informação,Turma 12,Tarde,Semipresencial,Unidade Centro
+10453,Nutrição,Turma 05,Noite,EAD,Unidade Norte
+10454,Sistemas de  Informação,Turma 15,Manhã,Semipresencial,Unidade Centro
+10455,Engenharia Civil,Turma 12,Tarde,EAD,Unidade Sul
+10456,Ciências Contábeis,Turma 08,Manhã,Presencial,Unidade Sul
+10457,Enfermagem,Turma 16,Noite,EAD,Unidade Sul
+10458,Psicologia,Turma 09,Tarde,Semipresencial,Unidade Norte
+10459,Direito,Turma 20,Tarde,Semipresencial,Unidade Norte
+10460,Direito,Turma 04,Manhã,Presencial,Unidade Norte
+10461,Enfermagem,Turma 29,Noite,EAD,Unidade Centro
+10462,Sistemas de  Informação,Turma 22,Tarde,Semipresencial,Unidade Centro
+10463,Engenharia Civil,Turma 18,Tarde,EAD,Unidade Centro
+10464,Enfermagem,Turma 26,Tarde,Semipresencial,Unidade Centro
+10465,Psicologia,Turma 07,Manhã,Presencial,Unidade Norte
+10466,Administração,Turma 12,Noite,Semipresencial,Unidade Norte
+10467,Educação Física,Turma 26,Noite,Presencial,Unidade Sul
+10468,Psicologia,Turma 03,Tarde,EAD,Unidade Sul
+10469,Educação Física,Turma 17,Tarde,EAD,Unidade Sul
+10470,Psicologia,Turma 05,Tarde,Semipresencial,Unidade Centro
+10471,Educação Física,Turma 15,Noite,Semipresencial,Unidade Norte
+10472,Enfermagem,Turma 29,Noite,Semipresencial,Unidade Sul
+10473,Enfermagem,Turma 25,Manhã,EAD,Unidade Sul
+10474,Administração,Turma 27,Manhã,Semipresencial,Unidade Centro
+10475,Ciências Contábeis,Turma 06,Manhã,EAD,Unidade Sul
+10476,Direito,Turma 12,Noite,EAD,Unidade Centro
+10477,Ciências Contábeis,Turma 07,Noite,Semipresencial,Unidade Norte
+10478,Enfermagem,Turma 21,Tarde,Semipresencial,Unidade Sul
+10479,Psicologia,Turma 17,Noite,Presencial,Unidade Sul
+10480,Nutrição,Turma 05,Manhã,Semipresencial,Unidade Sul
+10481,Nutrição,Turma 11,Noite,Presencial,Unidade Centro
+10482,Psicologia,Turma 02,Noite,Semipresencial,Unidade Norte
+10483,Direito,Turma 25,Noite,EAD,Unidade Sul
+10484,Administração,Turma 16,Noite,Semipresencial,Unidade Norte
+10485,Ciências Contábeis,Turma 16,Manhã,Semipresencial,Unidade Norte
+10486,Ciências Contábeis,Turma 15,Manhã,Semipresencial,Unidade Centro
+10487,Enfermagem,Turma 15,Tarde,EAD,Unidade Norte
+10488,Direito,Turma 11,Noite,Presencial,Unidade Norte
+10489,Sistemas de  Informação,Turma 24,Tarde,EAD,Unidade Centro
+10490,Sistemas de  Informação,Turma 17,Noite,Presencial,Unidade Norte
+10491,Direito,Turma 15,Manhã,EAD,Unidade Norte
+10492,Direito,Turma 05,Manhã,Presencial,Unidade Norte
+10493,Psicologia,Turma 28,Noite,EAD,Unidade Centro
+10494,Enfermagem,Turma 27,Tarde,Semipresencial,Unidade Sul
+10495,Sistemas de  Informação,Turma 07,Manhã,EAD,Unidade Sul
+10496,Educação Física,Turma 16,Tarde,EAD,Unidade Centro
+10497,Psicologia,Turma 13,Noite,EAD,Unidade Centro
+10498,Direito,Turma 19,Tarde,Presencial,Unidade Centro
+10499,Ciências Contábeis,Turma 16,Noite,Semipresencial,Unidade Sul
+10500,Educação Física,Turma 10,Noite,Presencial,Unidade Centro
+10501,Psicologia,Turma 05,Tarde,Semipresencial,Unidade Norte
+10502,Psicologia,Turma 12,Manhã,EAD,Unidade Centro
+10503,Nutrição,Turma 18,Manhã,EAD,Unidade Sul
+10504,Ciências Contábeis,Turma 03,Tarde,Semipresencial,Unidade Norte
+10505,Engenharia Civil,Turma 09,Noite,Semipresencial,Unidade Sul
+10506,Psicologia,Turma 05,Manhã,EAD,Unidade Norte
+10507,Sistemas de  Informação,Turma 18,Tarde,Presencial,Unidade Centro
+10508,Nutrição,Turma 17,Tarde,Semipresencial,Unidade Centro
+10509,Administração,Turma 02,Manhã,Semipresencial,Unidade Norte
+10510,Educação Física,Turma 17,Tarde,Presencial,Unidade Sul
+10511,Engenharia Civil,Turma 05,Tarde,Semipresencial,Unidade Norte
+10512,Enfermagem,Turma 13,Noite,Semipresencial,Unidade Norte
+10513,Nutrição,Turma 11,Noite,Semipresencial,Unidade Sul
+10514,Educação Física,Turma 23,Noite,EAD,Unidade Norte
+10515,Administração,Turma 12,Tarde,Semipresencial,Unidade Centro
+10516,Psicologia,Turma 19,Tarde,Semipresencial,Unidade Sul
+10517,Administração,Turma 20,Tarde,EAD,Unidade Sul
+10518,Nutrição,Turma 19,Manhã,Semipresencial,Unidade Centro
+10519,Nutrição,Turma 16,Manhã,Semipresencial,Unidade Sul
+10520,Nutrição,Turma 25,Tarde,Presencial,Unidade Sul
+10521,Direito,Turma 02,Noite,Semipresencial,Unidade Centro
+10522,Direito,Turma 01,Tarde,EAD,Unidade Norte
+10523,Enfermagem,Turma 14,Noite,Presencial,Unidade Norte
+10524,Engenharia Civil,Turma 25,Noite,EAD,Unidade Sul
+10525,Administração,Turma 23,Manhã,Semipresencial,Unidade Centro
+10526,Engenharia Civil,Turma 11,Noite,EAD,Unidade Sul
+10527,Psicologia,Turma 11,Manhã,EAD,Unidade Sul
+10528,Sistemas de  Informação,Turma 18,Tarde,Semipresencial,Unidade Sul
+10529,Ciências Contábeis,Turma 20,Tarde,Presencial,Unidade Centro
+10530,Ciências Contábeis,Turma 18,Tarde,Presencial,Unidade Norte
+10531,Ciências Contábeis,Turma 23,Manhã,Semipresencial,Unidade Sul
+10532,Educação Física,Turma 11,Tarde,EAD,Unidade Sul
+10533,Ciências Contábeis,Turma 10,Manhã,Semipresencial,Unidade Sul
+10534,Engenharia Civil,Turma 13,Tarde,EAD,Unidade Centro
+10535,Ciências Contábeis,Turma 02,Tarde,Semipresencial,Unidade Centro
+10536,Sistemas de  Informação,Turma 30,Tarde,Semipresencial,Unidade Norte
+10537,Educação Física,Turma 07,Manhã,Semipresencial,Unidade Norte
+10538,Engenharia Civil,Turma 23,Tarde,Presencial,Unidade Centro
+10539,Nutrição,Turma 24,Noite,Presencial,Unidade Centro
+10540,Administração,Turma 22,Noite,Presencial,Unidade Sul
+10541,Direito,Turma 02,Manhã,EAD,Unidade Norte
+10542,Educação Física,Turma 04,Noite,Presencial,Unidade Centro
+10543,Engenharia Civil,Turma 30,Manhã,EAD,Unidade Sul
+10544,Educação Física,Turma 16,Noite,Presencial,Unidade Norte
+10545,Sistemas de  Informação,Turma 10,Noite,Presencial,Unidade Centro
+10546,Nutrição,Turma 08,Noite,Semipresencial,Unidade Sul
+10547,Administração,Turma 30,Manhã,EAD,Unidade Centro
+10548,Administração,Turma 27,Tarde,EAD,Unidade Centro
+10549,Ciências Contábeis,Turma 29,Manhã,Presencial,Unidade Norte
+10550,Nutrição,Turma 20,Manhã,EAD,Unidade Norte
+10551,Educação Física,Turma 21,Noite,Semipresencial,Unidade Norte
+10552,Enfermagem,Turma 28,Noite,EAD,Unidade Norte
+10553,Direito,Turma 26,Manhã,EAD,Unidade Centro
+10554,Educação Física,Turma 21,Tarde,Semipresencial,Unidade Centro
+10555,Administração,Turma 24,Tarde,EAD,Unidade Sul
+10556,Direito,Turma 06,Noite,Semipresencial,Unidade Norte
+10557,Psicologia,Turma 17,Tarde,Presencial,Unidade Norte
+10558,Psicologia,Turma 06,Manhã,EAD,Unidade Norte
+10559,Direito,Turma 01,Tarde,EAD,Unidade Centro
+10560,Educação Física,Turma 25,Tarde,EAD,Unidade Norte
+10561,Nutrição,Turma 24,Noite,Presencial,Unidade Norte
+10562,Sistemas de  Informação,Turma 23,Manhã,Presencial,Unidade Sul
+10563,Psicologia,Turma 15,Tarde,Presencial,Unidade Norte
+10564,Engenharia Civil,Turma 30,Noite,EAD,Unidade Sul
+10565,Psicologia,Turma 21,Tarde,EAD,Unidade Sul
+10566,Direito,Turma 08,Manhã,EAD,Unidade Centro
+10567,Educação Física,Turma 24,Noite,EAD,Unidade Norte
+10568,Engenharia Civil,Turma 30,Tarde,Semipresencial,Unidade Sul
+10569,Direito,Turma 25,Manhã,Semipresencial,Unidade Sul
+10570,Psicologia,Turma 17,Tarde,Semipresencial,Unidade Sul
+10571,Sistemas de  Informação,Turma 03,Noite,Presencial,Unidade Centro
+10572,Engenharia Civil,Turma 29,Noite,Presencial,Unidade Sul
+10573,Engenharia Civil,Turma 05,Manhã,EAD,Unidade Sul
+10574,Educação Física,Turma 04,Noite,Presencial,Unidade Sul
+10575,Nutrição,Turma 16,Manhã,Semipresencial,Unidade Norte
+10576,Administração,Turma 15,Manhã,Semipresencial,Unidade Norte
+10577,Educação Física,Turma 19,Manhã,Semipresencial,Unidade Norte
+10578,Ciências Contábeis,Turma 24,Manhã,EAD,Unidade Norte
+10579,Administração,Turma 24,Manhã,Semipresencial,Unidade Centro
+10580,Administração,Turma 14,Tarde,Semipresencial,Unidade Centro
+10581,Engenharia Civil,Turma 02,Manhã,EAD,Unidade Centro
+10582,Ciências Contábeis,Turma 14,Manhã,Presencial,Unidade Sul
+10583,Psicologia,Turma 12,Tarde,EAD,Unidade Norte
+10584,Psicologia,Turma 03,Noite,Semipresencial,Unidade Sul
+10585,Enfermagem,Turma 21,Tarde,Presencial,Unidade Centro
+10586,Engenharia Civil,Turma 13,Noite,Presencial,Unidade Sul
+10587,Direito,Turma 27,Manhã,Presencial,Unidade Norte
+10588,Educação Física,Turma 22,Noite,Semipresencial,Unidade Norte
+10589,Engenharia Civil,Turma 13,Manhã,Presencial,Unidade Norte
+10590,Sistemas de  Informação,Turma 05,Tarde,Presencial,Unidade Sul
+10591,Psicologia,Turma 02,Noite,EAD,Unidade Sul
+10592,Administração,Turma 08,Manhã,Presencial,Unidade Centro
+10593,Nutrição,Turma 02,Tarde,Semipresencial,Unidade Sul
+10594,Administração,Turma 08,Noite,Presencial,Unidade Norte
+10595,Educação Física,Turma 08,Noite,Presencial,Unidade Centro
+10596,Enfermagem,Turma 17,Tarde,Presencial,Unidade Sul
+10597,Nutrição,Turma 11,Noite,Semipresencial,Unidade Sul
+10598,Sistemas de  Informação,Turma 08,Tarde,Presencial,Unidade Sul
+10599,Engenharia Civil,Turma 08,Tarde,EAD,Unidade Norte
+10600,Administração,Turma 18,Noite,Semipresencial,Unidade Centro
+10601,Psicologia,Turma 18,Tarde,Presencial,Unidade Norte
+10602,Psicologia,Turma 26,Noite,EAD,Unidade Sul
+10603,Psicologia,Turma 14,Manhã,EAD,Unidade Norte
+10604,Enfermagem,Turma 25,Noite,EAD,Unidade Centro
+10605,Direito,Turma 10,Noite,Presencial,Unidade Norte
+10606,Administração,Turma 18,Tarde,EAD,Unidade Sul
+10607,Engenharia Civil,Turma 05,Tarde,Presencial,Unidade Norte
+10608,Direito,Turma 11,Noite,Presencial,Unidade Norte
+10609,Sistemas de  Informação,Turma 03,Noite,Semipresencial,Unidade Centro
+10610,Administração,Turma 09,Tarde,Semipresencial,Unidade Sul
+10611,Nutrição,Turma 02,Manhã,Presencial,Unidade Sul
+10612,Engenharia Civil,Turma 07,Tarde,Presencial,Unidade Norte
+10613,Ciências Contábeis,Turma 30,Manhã,Presencial,Unidade Centro
+10614,Psicologia,Turma 24,Tarde,Presencial,Unidade Sul
+10615,Nutrição,Turma 23,Manhã,EAD,Unidade Centro
+10616,Engenharia Civil,Turma 11,Tarde,EAD,Unidade Norte
+10617,Engenharia Civil,Turma 21,Tarde,EAD,Unidade Norte
+10618,Sistemas de  Informação,Turma 17,Tarde,EAD,Unidade Centro
+10619,Educação Física,Turma 25,Tarde,Presencial,Unidade Norte
+10620,Sistemas de  Informação,Turma 14,Manhã,Semipresencial,Unidade Centro
+10621,Enfermagem,Turma 01,Tarde,Semipresencial,Unidade Sul
+10622,Nutrição,Turma 24,Tarde,EAD,Unidade Centro
+10623,Direito,Turma 11,Manhã,EAD,Unidade Sul
+10624,Direito,Turma 16,Noite,Semipresencial,Unidade Sul
+10625,Sistemas de  Informação,Turma 09,Tarde,Semipresencial,Unidade Sul
+10626,Educação Física,Turma 15,Manhã,Semipresencial,Unidade Norte
+10627,Enfermagem,Turma 05,Noite,Semipresencial,Unidade Norte
+10628,Enfermagem,Turma 30,Noite,Semipresencial,Unidade Centro
+10629,Engenharia Civil,Turma 02,Manhã,Semipresencial,Unidade Centro
+10630,Administração,Turma 14,Manhã,Semipresencial,Unidade Centro
+10631,Psicologia,Turma 23,Manhã,Presencial,Unidade Centro
+10632,Engenharia Civil,Turma 15,Tarde,Presencial,Unidade Sul
+10633,Nutrição,Turma 30,Tarde,Semipresencial,Unidade Norte
+10634,Administração,Turma 01,Noite,Semipresencial,Unidade Norte
+10635,Administração,Turma 01,Noite,Semipresencial,Unidade Norte
+10636,Engenharia Civil,Turma 10,Manhã,Semipresencial,Unidade Sul
+10637,Psicologia,Turma 26,Manhã,Presencial,Unidade Centro
+10638,Engenharia Civil,Turma 05,Manhã,Presencial,Unidade Sul
+10639,Engenharia Civil,Turma 09,Tarde,EAD,Unidade Norte
+10640,Psicologia,Turma 12,Tarde,EAD,Unidade Sul
+10641,Direito,Turma 23,Manhã,EAD,Unidade Sul
+10642,Psicologia,Turma 21,Noite,Presencial,Unidade Centro
+10643,Psicologia,Turma 13,Tarde,Semipresencial,Unidade Norte
+10644,Administração,Turma 21,Manhã,Semipresencial,Unidade Centro
+10645,Psicologia,Turma 16,Tarde,Semipresencial,Unidade Norte
+10646,Nutrição,Turma 28,Manhã,Semipresencial,Unidade Centro
+10647,Direito,Turma 07,Noite,Semipresencial,Unidade Norte
+10648,Ciências Contábeis,Turma 02,Manhã,Semipresencial,Unidade Norte
+10649,Engenharia Civil,Turma 19,Noite,Presencial,Unidade Centro
+10650,Sistemas de  Informação,Turma 01,Manhã,Semipresencial,Unidade Centro
+10651,Psicologia,Turma 30,Manhã,EAD,Unidade Centro
+10652,Nutrição,Turma 08,Noite,EAD,Unidade Sul
+10653,Engenharia Civil,Turma 11,Tarde,Semipresencial,Unidade Centro
+10654,Psicologia,Turma 17,Noite,EAD,Unidade Centro
+10655,Psicologia,Turma 14,Manhã,Presencial,Unidade Norte
+10656,Nutrição,Turma 25,Noite,Semipresencial,Unidade Norte
+10657,Sistemas de  Informação,Turma 01,Noite,EAD,Unidade Norte
+10658,Educação Física,Turma 08,Tarde,Semipresencial,Unidade Norte
+10659,Psicologia,Turma 06,Noite,Semipresencial,Unidade Sul
+10660,Psicologia,Turma 03,Noite,EAD,Unidade Centro
+10661,Psicologia,Turma 03,Tarde,Presencial,Unidade Norte
+10662,Enfermagem,Turma 24,Tarde,EAD,Unidade Norte
+10663,Psicologia,Turma 03,Manhã,EAD,Unidade Norte
+10664,Sistemas de  Informação,Turma 25,Tarde,Presencial,Unidade Centro
+10665,Psicologia,Turma 06,Tarde,EAD,Unidade Sul
+10666,Engenharia Civil,Turma 17,Tarde,Presencial,Unidade Centro
+10667,Psicologia,Turma 12,Noite,Presencial,Unidade Sul
+10668,Nutrição,Turma 26,Tarde,EAD,Unidade Centro
+10669,Ciências Contábeis,Turma 14,Tarde,Presencial,Unidade Sul
+10670,Engenharia Civil,Turma 29,Manhã,Semipresencial,Unidade Sul
+10671,Enfermagem,Turma 22,Tarde,Presencial,Unidade Centro
+10672,Ciências Contábeis,Turma 10,Tarde,EAD,Unidade Centro
+10673,Psicologia,Turma 06,Tarde,EAD,Unidade Norte
+10674,Ciências Contábeis,Turma 16,Manhã,EAD,Unidade Norte
+10675,Direito,Turma 24,Noite,EAD,Unidade Sul
+10676,Nutrição,Turma 07,Tarde,Presencial,Unidade Centro
+10677,Ciências Contábeis,Turma 01,Tarde,EAD,Unidade Sul
+10678,Psicologia,Turma 26,Tarde,EAD,Unidade Norte
+10679,Psicologia,Turma 27,Noite,Semipresencial,Unidade Centro
+10680,Ciências Contábeis,Turma 11,Noite,Semipresencial,Unidade Centro
+10681,Educação Física,Turma 11,Manhã,EAD,Unidade Norte
+10682,Ciências Contábeis,Turma 24,Noite,Semipresencial,Unidade Norte
+10683,Nutrição,Turma 26,Manhã,EAD,Unidade Norte
+10684,Ciências Contábeis,Turma 27,Tarde,EAD,Unidade Centro
+10685,Nutrição,Turma 07,Noite,Semipresencial,Unidade Centro
+10686,Engenharia Civil,Turma 01,Noite,EAD,Unidade Sul
+10687,Direito,Turma 15,Tarde,Semipresencial,Unidade Centro
+10688,Psicologia,Turma 22,Tarde,Presencial,Unidade Sul
+10689,Ciências Contábeis,Turma 08,Tarde,Semipresencial,Unidade Centro
+10690,Psicologia,Turma 26,Tarde,Presencial,Unidade Norte
+10691,Nutrição,Turma 16,Noite,EAD,Unidade Sul
+10692,Engenharia Civil,Turma 30,Noite,EAD,Unidade Sul
+10693,Administração,Turma 26,Tarde,Semipresencial,Unidade Sul
+10694,Nutrição,Turma 21,Manhã,Presencial,Unidade Centro
+10695,Sistemas de  Informação,Turma 06,Noite,Semipresencial,Unidade Centro
+10696,Nutrição,Turma 21,Noite,Semipresencial,Unidade Norte
+10697,Sistemas de  Informação,Turma 26,Tarde,Presencial,Unidade Centro
+10698,Psicologia,Turma 09,Manhã,Semipresencial,Unidade Sul
+10699,Engenharia Civil,Turma 18,Noite,Semipresencial,Unidade Sul
+10700,Direito,Turma 15,Tarde,EAD,Unidade Norte
+10701,Nutrição,Turma 23,Noite,Presencial,Unidade Norte
+10702,Administração,Turma 16,Manhã,EAD,Unidade Norte
+10703,Psicologia,Turma 04,Noite,Presencial,Unidade Norte
+10704,Ciências Contábeis,Turma 11,Tarde,Presencial,Unidade Sul
+10705,Educação Física,Turma 12,Tarde,Presencial,Unidade Norte
+10706,Educação Física,Turma 11,Manhã,EAD,Unidade Centro
+10707,Psicologia,Turma 01,Tarde,Semipresencial,Unidade Centro
+10708,Enfermagem,Turma 30,Noite,Presencial,Unidade Sul
+10709,Enfermagem,Turma 18,Manhã,EAD,Unidade Sul
+10710,Psicologia,Turma 15,Manhã,EAD,Unidade Sul
+10711,Enfermagem,Turma 06,Noite,Semipresencial,Unidade Norte
+10712,Psicologia,Turma 01,Noite,Semipresencial,Unidade Centro
+10713,Educação Física,Turma 19,Tarde,EAD,Unidade Centro
+10714,Direito,Turma 07,Tarde,Semipresencial,Unidade Centro
+10715,Nutrição,Turma 04,Noite,Presencial,Unidade Norte
+10716,Sistemas de  Informação,Turma 07,Tarde,Presencial,Unidade Norte
+10717,Educação Física,Turma 17,Noite,EAD,Unidade Sul
+10718,Psicologia,Turma 20,Tarde,Semipresencial,Unidade Centro
+10719,Sistemas de  Informação,Turma 12,Tarde,Semipresencial,Unidade Centro
+10720,Ciências Contábeis,Turma 30,Noite,Semipresencial,Unidade Centro
+10721,Enfermagem,Turma 11,Manhã,Presencial,Unidade Norte
+10722,Psicologia,Turma 06,Tarde,Semipresencial,Unidade Centro
+10723,Engenharia Civil,Turma 13,Tarde,Semipresencial,Unidade Centro
+10724,Nutrição,Turma 13,Tarde,Presencial,Unidade Norte
+10725,Engenharia Civil,Turma 23,Noite,Presencial,Unidade Sul
+10726,Enfermagem,Turma 16,Tarde,Presencial,Unidade Centro
+10727,Sistemas de  Informação,Turma 27,Tarde,Semipresencial,Unidade Centro
+10728,Sistemas de  Informação,Turma 01,Tarde,Presencial,Unidade Centro
+10729,Psicologia,Turma 18,Noite,Semipresencial,Unidade Norte
+10730,Psicologia,Turma 22,Tarde,EAD,Unidade Sul
+10731,Educação Física,Turma 16,Manhã,Presencial,Unidade Sul
+10732,Administração,Turma 26,Manhã,EAD,Unidade Centro
+10733,Ciências Contábeis,Turma 08,Noite,EAD,Unidade Centro
+10734,Educação Física,Turma 19,Noite,EAD,Unidade Sul
+10735,Engenharia Civil,Turma 04,Noite,Presencial,Unidade Norte
+10736,Engenharia Civil,Turma 27,Tarde,Semipresencial,Unidade Centro
+10737,Educação Física,Turma 18,Manhã,EAD,Unidade Centro
+10738,Direito,Turma 10,Manhã,EAD,Unidade Norte
+10739,Sistemas de  Informação,Turma 28,Manhã,EAD,Unidade Centro
+10740,Direito,Turma 07,Noite,Semipresencial,Unidade Sul
+10741,Sistemas de  Informação,Turma 28,Noite,Semipresencial,Unidade Sul
+10742,Psicologia,Turma 06,Noite,Presencial,Unidade Centro
+10743,Direito,Turma 26,Manhã,Semipresencial,Unidade Norte
+10744,Engenharia Civil,Turma 09,Noite,Semipresencial,Unidade Centro
+10745,Sistemas de  Informação,Turma 23,Tarde,EAD,Unidade Sul
+10746,Ciências Contábeis,Turma 28,Noite,Semipresencial,Unidade Centro
+10747,Enfermagem,Turma 25,Tarde,Presencial,Unidade Norte
+10748,Enfermagem,Turma 23,Manhã,Presencial,Unidade Centro
+10749,Sistemas de  Informação,Turma 27,Manhã,Semipresencial,Unidade Norte
+10750,Educação Física,Turma 05,Noite,Semipresencial,Unidade Norte
+10751,Psicologia,Turma 13,Tarde,Presencial,Unidade Sul
+10752,Psicologia,Turma 13,Noite,Semipresencial,Unidade Norte
+10753,Sistemas de  Informação,Turma 15,Tarde,EAD,Unidade Sul
+10754,Administração,Turma 28,Noite,Presencial,Unidade Sul
+10755,Educação Física,Turma 21,Noite,Semipresencial,Unidade Norte
+10756,Psicologia,Turma 26,Noite,EAD,Unidade Centro
+10757,Psicologia,Turma 27,Manhã,EAD,Unidade Norte
+10758,Sistemas de  Informação,Turma 27,Tarde,EAD,Unidade Sul
+10759,Nutrição,Turma 05,Noite,EAD,Unidade Norte
+10760,Administração,Turma 02,Manhã,Semipresencial,Unidade Norte
+10761,Administração,Turma 04,Manhã,EAD,Unidade Norte
+10762,Administração,Turma 14,Manhã,Semipresencial,Unidade Centro
+10763,Ciências Contábeis,Turma 06,Tarde,Presencial,Unidade Sul
+10764,Sistemas de  Informação,Turma 09,Manhã,EAD,Unidade Sul
+10765,Enfermagem,Turma 02,Tarde,Semipresencial,Unidade Norte
+10766,Direito,Turma 14,Noite,Presencial,Unidade Sul
+10767,Psicologia,Turma 01,Manhã,EAD,Unidade Centro
+10768,Enfermagem,Turma 19,Manhã,Semipresencial,Unidade Sul
+10769,Educação Física,Turma 01,Manhã,Semipresencial,Unidade Norte
+10770,Psicologia,Turma 28,Tarde,Semipresencial,Unidade Centro
+10771,Educação Física,Turma 03,Manhã,EAD,Unidade Centro
+10772,Psicologia,Turma 04,Tarde,EAD,Unidade Norte
+10773,Enfermagem,Turma 13,Manhã,Semipresencial,Unidade Sul
+10774,Enfermagem,Turma 03,Noite,Semipresencial,Unidade Centro
+10775,Nutrição,Turma 21,Manhã,EAD,Unidade Norte
+10776,Direito,Turma 21,Noite,Presencial,Unidade Norte
+10777,Nutrição,Turma 22,Tarde,Presencial,Unidade Centro
+10778,Psicologia,Turma 05,Manhã,Semipresencial,Unidade Sul
+10779,Psicologia,Turma 12,Tarde,EAD,Unidade Centro
+10780,Direito,Turma 09,Noite,Presencial,Unidade Centro
+10781,Engenharia Civil,Turma 20,Noite,Semipresencial,Unidade Sul
+10782,Ciências Contábeis,Turma 25,Noite,Presencial,Unidade Sul
+10783,Ciências Contábeis,Turma 07,Noite,Semipresencial,Unidade Sul
+10784,Direito,Turma 24,Tarde,EAD,Unidade Sul
+10785,Administração,Turma 26,Manhã,EAD,Unidade Norte
+10786,Psicologia,Turma 08,Tarde,Semipresencial,Unidade Sul
+10787,Psicologia,Turma 17,Manhã,EAD,Unidade Norte
+10788,Enfermagem,Turma 13,Noite,EAD,Unidade Norte
+10789,Engenharia Civil,Turma 22,Manhã,EAD,Unidade Centro
+10790,Administração,Turma 19,Manhã,Presencial,Unidade Norte
+10791,Direito,Turma 02,Manhã,EAD,Unidade Sul
+10792,Ciências Contábeis,Turma 21,Noite,Semipresencial,Unidade Norte
+10793,Psicologia,Turma 23,Tarde,Presencial,Unidade Sul
+10794,Engenharia Civil,Turma 18,Noite,Presencial,Unidade Norte
+10795,Psicologia,Turma 10,Manhã,Semipresencial,Unidade Centro
+10796,Enfermagem,Turma 18,Tarde,EAD,Unidade Sul
+10797,Psicologia,Turma 10,Noite,EAD,Unidade Sul
+10798,Direito,Turma 02,Manhã,Presencial,Unidade Norte
+10799,Psicologia,Turma 15,Noite,Semipresencial,Unidade Centro
+10800,Ciências Contábeis,Turma 22,Noite,Semipresencial,Unidade Sul
+10801,Enfermagem,Turma 04,Manhã,Semipresencial,Unidade Centro
+10802,Administração,Turma 06,Tarde,EAD,Unidade Sul
+10803,Engenharia Civil,Turma 26,Noite,EAD,Unidade Centro
+10804,Sistemas de  Informação,Turma 05,Noite,EAD,Unidade Sul
+10805,Psicologia,Turma 25,Manhã,EAD,Unidade Norte
+10806,Ciências Contábeis,Turma 17,Manhã,EAD,Unidade Sul
+10807,Nutrição,Turma 21,Manhã,EAD,Unidade Norte
+10808,Engenharia Civil,Turma 12,Manhã,EAD,Unidade Sul
+10809,Enfermagem,Turma 12,Manhã,EAD,Unidade Centro
+10810,Nutrição,Turma 22,Noite,Presencial,Unidade Centro
+10811,Engenharia Civil,Turma 01,Manhã,Presencial,Unidade Centro
+10812,Administração,Turma 16,Tarde,EAD,Unidade Centro
+10813,Enfermagem,Turma 30,Manhã,Semipresencial,Unidade Sul
+10814,Psicologia,Turma 08,Tarde,Presencial,Unidade Norte
+10815,Sistemas de  Informação,Turma 09,Manhã,Semipresencial,Unidade Norte
+10816,Psicologia,Turma 17,Noite,Presencial,Unidade Centro
+10817,Direito,Turma 26,Noite,Presencial,Unidade Norte
+10818,Psicologia,Turma 29,Tarde,EAD,Unidade Norte
+10819,Sistemas de  Informação,Turma 03,Noite,EAD,Unidade Centro
+10820,Sistemas de  Informação,Turma 07,Tarde,Semipresencial,Unidade Norte
+10821,Nutrição,Turma 08,Tarde,EAD,Unidade Sul
+10822,Educação Física,Turma 25,Manhã,Semipresencial,Unidade Sul
+10823,Direito,Turma 05,Manhã,EAD,Unidade Centro
+10824,Direito,Turma 18,Tarde,Semipresencial,Unidade Sul
+10825,Administração,Turma 11,Manhã,Semipresencial,Unidade Norte
+10826,Ciências Contábeis,Turma 04,Manhã,Semipresencial,Unidade Centro
+10827,Psicologia,Turma 16,Manhã,Presencial,Unidade Sul
+10828,Ciências Contábeis,Turma 03,Manhã,Presencial,Unidade Sul
+10829,Psicologia,Turma 23,Tarde,EAD,Unidade Sul
+10830,Psicologia,Turma 19,Manhã,Semipresencial,Unidade Centro
+10831,Psicologia,Turma 03,Noite,Semipresencial,Unidade Centro
+10832,Psicologia,Turma 22,Manhã,Presencial,Unidade Norte
+10833,Ciências Contábeis,Turma 28,Tarde,EAD,Unidade Sul
+10834,Sistemas de  Informação,Turma 11,Tarde,EAD,Unidade Centro
+10835,Psicologia,Turma 07,Manhã,Semipresencial,Unidade Centro
+10836,Enfermagem,Turma 04,Manhã,EAD,Unidade Norte
+10837,Sistemas de  Informação,Turma 14,Manhã,Semipresencial,Unidade Norte
+10838,Direito,Turma 15,Tarde,EAD,Unidade Norte
+10839,Psicologia,Turma 03,Manhã,Semipresencial,Unidade Norte
+10840,Nutrição,Turma 02,Manhã,EAD,Unidade Centro
+10841,Psicologia,Turma 23,Manhã,EAD,Unidade Norte
+10842,Engenharia Civil,Turma 02,Noite,EAD,Unidade Norte
+10843,Enfermagem,Turma 01,Tarde,EAD,Unidade Sul
+10844,Engenharia Civil,Turma 08,Manhã,EAD,Unidade Centro
+10845,Enfermagem,Turma 04,Manhã,Presencial,Unidade Centro
+10846,Enfermagem,Turma 07,Tarde,EAD,Unidade Sul
+10847,Psicologia,Turma 19,Noite,EAD,Unidade Centro
+10848,Administração,Turma 03,Manhã,Semipresencial,Unidade Norte
+10849,Enfermagem,Turma 03,Tarde,Presencial,Unidade Centro
+10850,Educação Física,Turma 02,Manhã,Semipresencial,Unidade Norte
+10851,Psicologia,Turma 16,Manhã,EAD,Unidade Sul
+10852,Psicologia,Turma 06,Tarde,Presencial,Unidade Centro
+10853,Ciências Contábeis,Turma 09,Tarde,Presencial,Unidade Centro
+10854,Nutrição,Turma 20,Noite,Presencial,Unidade Sul
+10855,Ciências Contábeis,Turma 16,Tarde,Semipresencial,Unidade Norte
+10856,Administração,Turma 03,Tarde,EAD,Unidade Centro
+10857,Psicologia,Turma 07,Noite,Semipresencial,Unidade Centro
+10858,Engenharia Civil,Turma 26,Manhã,EAD,Unidade Sul
+10859,Sistemas de  Informação,Turma 16,Noite,EAD,Unidade Norte
+10860,Nutrição,Turma 17,Tarde,EAD,Unidade Norte
+10861,Enfermagem,Turma 01,Tarde,Semipresencial,Unidade Centro
+10862,Administração,Turma 29,Tarde,Presencial,Unidade Norte
+10863,Engenharia Civil,Turma 12,Noite,Presencial,Unidade Centro
+10864,Psicologia,Turma 08,Noite,Presencial,Unidade Norte
+10865,Engenharia Civil,Turma 27,Noite,Presencial,Unidade Centro
+10866,Nutrição,Turma 28,Tarde,EAD,Unidade Centro
+10867,Enfermagem,Turma 08,Noite,EAD,Unidade Sul
+10868,Sistemas de  Informação,Turma 30,Noite,Presencial,Unidade Sul
+10869,Sistemas de  Informação,Turma 19,Noite,Presencial,Unidade Sul
+10870,Direito,Turma 27,Tarde,Semipresencial,Unidade Norte
+10871,Enfermagem,Turma 16,Manhã,Presencial,Unidade Centro
+10872,Direito,Turma 20,Manhã,Presencial,Unidade Sul
+10873,Educação Física,Turma 01,Tarde,Semipresencial,Unidade Centro
+10874,Enfermagem,Turma 11,Noite,Presencial,Unidade Norte
+10875,Administração,Turma 01,Manhã,Semipresencial,Unidade Sul
+10876,Enfermagem,Turma 25,Manhã,Semipresencial,Unidade Norte
+10877,Psicologia,Turma 12,Noite,Semipresencial,Unidade Norte
+10878,Nutrição,Turma 04,Tarde,EAD,Unidade Norte
+10879,Enfermagem,Turma 06,Noite,EAD,Unidade Sul
+10880,Educação Física,Turma 21,Tarde,Presencial,Unidade Sul
+10881,Engenharia Civil,Turma 23,Noite,EAD,Unidade Centro
+10882,Nutrição,Turma 27,Manhã,EAD,Unidade Norte
+10883,Ciências Contábeis,Turma 05,Manhã,Semipresencial,Unidade Centro
+10884,Nutrição,Turma 13,Noite,Presencial,Unidade Centro
+10885,Nutrição,Turma 11,Noite,Presencial,Unidade Sul
+10886,Nutrição,Turma 04,Tarde,Presencial,Unidade Norte
+10887,Psicologia,Turma 08,Tarde,EAD,Unidade Centro
+10888,Psicologia,Turma 27,Noite,Semipresencial,Unidade Sul
+10889,Sistemas de  Informação,Turma 15,Manhã,EAD,Unidade Centro
+10890,Direito,Turma 23,Manhã,EAD,Unidade Norte
+10891,Psicologia,Turma 24,Manhã,Presencial,Unidade Norte
+10892,Educação Física,Turma 24,Tarde,Presencial,Unidade Norte
+10893,Educação Física,Turma 29,Tarde,EAD,Unidade Sul
+10894,Psicologia,Turma 04,Tarde,Semipresencial,Unidade Sul
+10895,Direito,Turma 06,Tarde,Presencial,Unidade Centro
+10896,Ciências Contábeis,Turma 01,Tarde,EAD,Unidade Centro
+10897,Psicologia,Turma 11,Manhã,EAD,Unidade Centro
+10898,Psicologia,Turma 18,Manhã,EAD,Unidade Sul
+10899,Nutrição,Turma 29,Tarde,Semipresencial,Unidade Centro
+10900,Psicologia,Turma 21,Manhã,Semipresencial,Unidade Norte
+10901,Enfermagem,Turma 02,Manhã,EAD,Unidade Centro
+10902,Direito,Turma 14,Noite,Semipresencial,Unidade Sul
+10903,Engenharia Civil,Turma 09,Noite,EAD,Unidade Norte
+10904,Direito,Turma 04,Manhã,EAD,Unidade Sul
+10905,Engenharia Civil,Turma 27,Tarde,Presencial,Unidade Centro
+10906,Sistemas de  Informação,Turma 01,Tarde,Presencial,Unidade Norte
+10907,Nutrição,Turma 16,Manhã,Presencial,Unidade Centro
+10908,Direito,Turma 06,Noite,EAD,Unidade Centro
+10909,Educação Física,Turma 28,Manhã,EAD,Unidade Norte
+10910,Educação Física,Turma 16,Noite,EAD,Unidade Centro
+10911,Engenharia Civil,Turma 13,Manhã,EAD,Unidade Norte
+10912,Sistemas de  Informação,Turma 06,Tarde,Presencial,Unidade Norte
+10913,Educação Física,Turma 15,Tarde,Presencial,Unidade Norte
+10914,Nutrição,Turma 02,Manhã,Semipresencial,Unidade Sul
+10915,Psicologia,Turma 03,Noite,EAD,Unidade Sul
+10916,Psicologia,Turma 25,Noite,Presencial,Unidade Sul
+10917,Administração,Turma 27,Tarde,Semipresencial,Unidade Norte
+10918,Engenharia Civil,Turma 22,Tarde,Semipresencial,Unidade Centro
+10919,Educação Física,Turma 10,Manhã,EAD,Unidade Sul
+10920,Administração,Turma 17,Noite,Semipresencial,Unidade Sul
+10921,Nutrição,Turma 05,Manhã,EAD,Unidade Centro
+10922,Enfermagem,Turma 07,Manhã,Presencial,Unidade Centro
+10923,Psicologia,Turma 03,Noite,EAD,Unidade Centro
+10924,Enfermagem,Turma 27,Noite,EAD,Unidade Norte
+10925,Psicologia,Turma 03,Tarde,Semipresencial,Unidade Norte
+10926,Engenharia Civil,Turma 11,Tarde,Semipresencial,Unidade Norte
+10927,Administração,Turma 26,Noite,Semipresencial,Unidade Sul
+10928,Engenharia Civil,Turma 26,Tarde,Presencial,Unidade Norte
+10929,Enfermagem,Turma 05,Noite,Semipresencial,Unidade Sul
+10930,Psicologia,Turma 30,Manhã,Semipresencial,Unidade Centro
+10931,Ciências Contábeis,Turma 28,Noite,EAD,Unidade Norte
+10932,Ciências Contábeis,Turma 13,Noite,EAD,Unidade Sul
+10933,Nutrição,Turma 16,Manhã,Presencial,Unidade Norte
+10934,Psicologia,Turma 05,Noite,Semipresencial,Unidade Sul
+10935,Psicologia,Turma 02,Tarde,EAD,Unidade Sul
+10936,Direito,Turma 02,Noite,EAD,Unidade Norte
+10937,Sistemas de  Informação,Turma 01,Tarde,EAD,Unidade Norte
+10938,Ciências Contábeis,Turma 27,Tarde,Semipresencial,Unidade Sul
+10939,Psicologia,Turma 28,Manhã,Presencial,Unidade Norte
+10940,Educação Física,Turma 25,Tarde,EAD,Unidade Sul
+10941,Psicologia,Turma 20,Noite,Presencial,Unidade Centro
+10942,Educação Física,Turma 07,Tarde,Semipresencial,Unidade Norte
+10943,Engenharia Civil,Turma 28,Tarde,Presencial,Unidade Sul
+10944,Enfermagem,Turma 03,Tarde,Semipresencial,Unidade Sul
+10945,Psicologia,Turma 05,Noite,Semipresencial,Unidade Centro
+10946,Enfermagem,Turma 07,Manhã,Presencial,Unidade Centro
+10947,Administração,Turma 15,Manhã,EAD,Unidade Sul
+10948,Direito,Turma 09,Tarde,EAD,Unidade Sul
+10949,Psicologia,Turma 21,Manhã,Semipresencial,Unidade Centro
+10950,Direito,Turma 12,Tarde,Semipresencial,Unidade Norte
+10951,Enfermagem,Turma 28,Tarde,Semipresencial,Unidade Sul
+10952,Sistemas de  Informação,Turma 12,Manhã,EAD,Unidade Sul
+10953,Psicologia,Turma 10,Manhã,EAD,Unidade Centro
+10954,Enfermagem,Turma 28,Noite,Presencial,Unidade Centro
+10955,Direito,Turma 22,Manhã,EAD,Unidade Sul
+10956,Psicologia,Turma 17,Manhã,Semipresencial,Unidade Centro
+10957,Educação Física,Turma 30,Manhã,Semipresencial,Unidade Centro
+10958,Nutrição,Turma 26,Manhã,Presencial,Unidade Norte
+10959,Nutrição,Turma 26,Tarde,Semipresencial,Unidade Sul
+10960,Ciências Contábeis,Turma 14,Tarde,EAD,Unidade Norte
+10961,Ciências Contábeis,Turma 07,Tarde,EAD,Unidade Sul
+10962,Engenharia Civil,Turma 27,Noite,EAD,Unidade Sul
+10963,Psicologia,Turma 01,Noite,Semipresencial,Unidade Norte
+10964,Engenharia Civil,Turma 21,Noite,Semipresencial,Unidade Norte
+10965,Ciências Contábeis,Turma 22,Manhã,EAD,Unidade Centro
+10966,Sistemas de  Informação,Turma 09,Noite,EAD,Unidade Norte
+10967,Ciências Contábeis,Turma 21,Noite,Semipresencial,Unidade Norte
+10968,Direito,Turma 05,Noite,Presencial,Unidade Centro
+10969,Nutrição,Turma 13,Noite,EAD,Unidade Sul
+10970,Enfermagem,Turma 24,Manhã,Semipresencial,Unidade Norte
+10971,Ciências Contábeis,Turma 09,Tarde,EAD,Unidade Norte
+10972,Administração,Turma 19,Noite,Semipresencial,Unidade Centro
+10973,Sistemas de  Informação,Turma 24,Noite,Presencial,Unidade Sul
+10974,Engenharia Civil,Turma 21,Tarde,Semipresencial,Unidade Norte
+10975,Engenharia Civil,Turma 10,Manhã,Semipresencial,Unidade Sul
+10976,Enfermagem,Turma 10,Manhã,EAD,Unidade Centro
+10977,Ciências Contábeis,Turma 24,Noite,Presencial,Unidade Sul
+10978,Sistemas de  Informação,Turma 21,Manhã,Presencial,Unidade Norte
+10979,Direito,Turma 24,Tarde,EAD,Unidade Norte
+10980,Sistemas de  Informação,Turma 09,Noite,EAD,Unidade Norte
+10981,Psicologia,Turma 16,Manhã,Semipresencial,Unidade Sul
+10982,Nutrição,Turma 20,Manhã,EAD,Unidade Centro
+10983,Engenharia Civil,Turma 04,Noite,EAD,Unidade Sul
+10984,Ciências Contábeis,Turma 14,Manhã,Presencial,Unidade Centro
+10985,Direito,Turma 11,Tarde,Semipresencial,Unidade Norte
+10986,Enfermagem,Turma 11,Noite,Presencial,Unidade Centro
+10987,Educação Física,Turma 11,Noite,Presencial,Unidade Norte
+10988,Administração,Turma 01,Tarde,EAD,Unidade Centro
+10989,Enfermagem,Turma 19,Manhã,EAD,Unidade Centro
+10990,Enfermagem,Turma 20,Tarde,Semipresencial,Unidade Norte
+10991,Psicologia,Turma 14,Tarde,EAD,Unidade Centro
+10992,Administração,Turma 18,Manhã,Semipresencial,Unidade Norte
+10993,Administração,Turma 29,Tarde,Semipresencial,Unidade Centro
+10994,Administração,Turma 22,Manhã,Semipresencial,Unidade Sul
+10995,Direito,Turma 08,Noite,EAD,Unidade Norte
+10996,Enfermagem,Turma 04,Tarde,Semipresencial,Unidade Sul
+10997,Ciências Contábeis,Turma 06,Manhã,Presencial,Unidade Norte
+10998,Ciências Contábeis,Turma 15,Noite,Semipresencial,Unidade Sul
+10999,Engenharia Civil,Turma 11,Tarde,Semipresencial,Unidade Centro
+11000,Sistemas de  Informação,Turma 29,Tarde,EAD,Unidade Centro
